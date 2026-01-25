@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Fiat_Panda"
+
 generations:
   - name: "First Generation (Type 141)"
     start_year: 1980
@@ -13,3 +16,8 @@ generations:
     start_year: 2011
     end_year: null
     description: "The current Panda built upon its predecessor's strengths while offering improved quality, technology, and safety. Slightly larger with a more evolved design, it maintained the 'squircle' theme throughout the interior and exterior. Engine options have included the innovative two-cylinder TwinAir turbocharged engine, conventional 1.2L four-cylinder petrol units, and 1.3L MultiJet diesels. The Panda 4×4 continued as the world's smallest off-roader with genuine capability thanks to its lightweight, electronic differential locks, and specialized traction systems. Special variants have included the Cross with enhanced off-road styling and capability, the Hybrid with mild-hybrid technology, and the City Cross offering crossover styling with two-wheel drive. The interior focuses on practicality with flexible seating, numerous storage compartments, and modern connectivity options. Despite its age, the third-generation Panda remains popular for its combination of city-friendly dimensions, practical design, and unique character, continuing as one of Fiat's core models with over 7.5 million Pandas produced across all generations."
+
+  - name: "Grande Panda (Type 326)"
+    start_year: 2024
+    end_year: null
+    description: "The Grande Panda was introduced on 14 June 2024 as a B-segment version of the Panda, representing a larger upgrade from the classic city car size. Based on the Smart Car platform shared with the fourth-generation Citroën C3 and Opel Frontera, the Grande Panda offers a new dimension to the Panda family. It is sold with mild hybrid and fully electric powertrains, providing modern sustainable options while maintaining the Panda's iconic design language and practical philosophy."
