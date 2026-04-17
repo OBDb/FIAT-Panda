@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     Fiat_STEER_ANGLE: 720
   response: 18DAF13005620885FF02
+- expected_values:
+    Fiat_STEER_ANGLE: 720
+  response: "220885\n18 DA F1 30 05 62 08 85 EE 25 "
