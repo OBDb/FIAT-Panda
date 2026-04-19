@@ -1,8 +1,17 @@
 command_id: DA10.10.221935|din=03
 test_cases:
 - expected_values:
+    Fiat_IAT_TURBO: -38.92
+  response: '18 DA F1 10 05 62 19 35 00 36 '
+- expected_values:
+    Fiat_IAT_TURBO: -38.9
+  response: '18 DA F1 10 05 62 19 35 00 37 '
+- expected_values:
     Fiat_IAT_TURBO: -38.8
   response: '18 DA F1 10 05 62 19 35 00 3C '
+- expected_values:
+    Fiat_IAT_TURBO: -38.92
+  response: 18DAF110056219350036
 - expected_values:
     Fiat_IAT_TURBO: -38.88
   response: 18DAF110056219350038
