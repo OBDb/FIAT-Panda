@@ -1,11 +1,26 @@
 command_id: DA10.10.221003|din=03
 test_cases:
 - expected_values:
+    Fiat_ECT_ECU: -38.44
+  response: '18 DA F1 10 05 62 10 03 00 4E '
+- expected_values:
+    Fiat_ECT_ECU: -38.38
+  response: '18 DA F1 10 05 62 10 03 00 51 '
+- expected_values:
+    Fiat_ECT_ECU: -38.64
+  response: 18DAF110056210030044
+- expected_values:
     Fiat_ECT_ECU: -38.6
   response: 18DAF110056210030046
 - expected_values:
     Fiat_ECT_ECU: -38.52
   response: 18DAF11005621003004A
 - expected_values:
+    Fiat_ECT_ECU: -38.44
+  response: 18DAF11005621003004E
+- expected_values:
     Fiat_ECT_ECU: -38.32
   response: 18DAF110056210030054
+- expected_values:
+    Fiat_ECT_ECU: -38.28
+  response: 18DAF110056210030056
