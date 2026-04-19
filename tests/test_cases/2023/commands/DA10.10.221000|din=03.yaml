@@ -1,6 +1,9 @@
 command_id: DA10.10.221000|din=03
 test_cases:
 - expected_values:
+    Fiat_RPM_ECU: 1337
+  response: '18 DA F1 10 05 62 10 00 14 E4 '
+- expected_values:
     Fiat_RPM_ECU: 1358
   response: '18 DA F1 10 05 62 10 00 15 38 '
 - expected_values:
@@ -9,3 +12,6 @@ test_cases:
 - expected_values:
     Fiat_RPM_ECU: 1352
   response: 18DAF110056210001520
+- expected_values:
+    Fiat_RPM_ECU: 2043
+  response: 18DAF110056210001FEC
