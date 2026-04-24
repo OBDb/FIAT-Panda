@@ -7,11 +7,11 @@ test_cases:
     Fiat_VGT_ACT: 2.96025
   response: '18 DA F1 10 05 62 18 A0 07 94 '
 - expected_values:
+    Fiat_VGT_ACT: 2.48569
+  response: 18DAF110056218A0065D
+- expected_values:
+    Fiat_VGT_ACT: 2.70695
+  response: 18DAF110056218A006EE
+- expected_values:
     Fiat_VGT_ACT: 2.85801
   response: 18DAF110056218A00751
-- expected_values:
-    Fiat_VGT_ACT: 2.92821
-  response: 18DAF110056218A0077F
-- expected_values:
-    Fiat_VGT_ACT: 2.94041
-  response: 18DAF110056218A00787
