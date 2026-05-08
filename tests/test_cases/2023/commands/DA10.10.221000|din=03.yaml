@@ -7,8 +7,8 @@ test_cases:
     Fiat_RPM_ECU: 1358
   response: '18 DA F1 10 05 62 10 00 15 38 '
 - expected_values:
-    Fiat_RPM_ECU: 1302
-  response: 18DAF110056210001458
+    Fiat_RPM_ECU: 819
+  response: 18DAF110056210000CCC
 - expected_values:
     Fiat_RPM_ECU: 1347
   response: 18DAF11005621000150C

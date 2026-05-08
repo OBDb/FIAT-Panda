@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     Fiat_WATER_FUEL_DIST: 5
   response: 18DAF110056210090005
+- expected_values:
+    Fiat_WATER_FUEL_DIST: 13
+  response: 18DAF11005621009000D
