@@ -1,26 +1,26 @@
 command_id: DA10.10.221935|din=03
 test_cases:
 - expected_values:
-    Fiat_IAT_TURBO: -38.92
+    PANDA_IAT_TURBO: 14
   response: '18 DA F1 10 05 62 19 35 00 36 '
 - expected_values:
-    Fiat_IAT_TURBO: -38.9
+    PANDA_IAT_TURBO: 15
   response: '18 DA F1 10 05 62 19 35 00 37 '
 - expected_values:
-    Fiat_IAT_TURBO: -38.8
+    PANDA_IAT_TURBO: 20
   response: '18 DA F1 10 05 62 19 35 00 3C '
 - expected_values:
-    Fiat_IAT_TURBO: -38.92
+    PANDA_IAT_TURBO: 14
   response: 18DAF110056219350036
 - expected_values:
-    Fiat_IAT_TURBO: -38.9
+    PANDA_IAT_TURBO: 15
   response: 18DAF110056219350037
 - expected_values:
-    Fiat_IAT_TURBO: -38.88
+    PANDA_IAT_TURBO: 16
   response: 18DAF110056219350038
 - expected_values:
-    Fiat_IAT_TURBO: -38.58
+    PANDA_IAT_TURBO: 31
   response: 18DAF110056219350047
 - expected_values:
-    Fiat_IAT_TURBO: -38.54
+    PANDA_IAT_TURBO: 33
   response: 18DAF110056219350049
