@@ -1,17 +1,17 @@
 command_id: DA10.10.221009|din=03
 test_cases:
 - expected_values:
-    Fiat_WATER_FUEL_DIST: 0
+    PANDA_WATER_FUEL_DIST: 0
   response: '18 DA F1 10 05 62 10 09 00 00 '
 - expected_values:
-    Fiat_WATER_FUEL_DIST: 1
+    PANDA_WATER_FUEL_DIST: 1
   response: 18DAF110056210090001
 - expected_values:
-    Fiat_WATER_FUEL_DIST: 3
+    PANDA_WATER_FUEL_DIST: 3
   response: 18DAF110056210090003
 - expected_values:
-    Fiat_WATER_FUEL_DIST: 5
+    PANDA_WATER_FUEL_DIST: 5
   response: 18DAF110056210090005
 - expected_values:
-    Fiat_WATER_FUEL_DIST: 13
+    PANDA_WATER_FUEL_DIST: 13
   response: 18DAF11005621009000D
